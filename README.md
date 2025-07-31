@@ -1,1 +1,1 @@
-# emp_data_api
+# Repository gives the employee - api data as JSON to process 'ELT/ELT pipelines using API Data'
